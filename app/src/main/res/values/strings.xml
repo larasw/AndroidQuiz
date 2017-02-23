@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+
+    <string name="question_1">Who is the creator of DOOM(2016) soundtrack?</string>
+    <string name="question_2">Where is the SI 38 INT located?</string>
+    <string name="question_3">Where is the place of birth BJ Habibie ?</string>
+    <string name="question_4">Which boyband group from South Korea that defeat Maroon 5 in Salary ?</string>
+    <string name="question_5">What is BTS stands for?</string>
+    <string name="question_6">What is the name of the capital of South korea?</string>
+
+    <string name="answer_1_1">Simon Viklund</string>
+    <string name="answer_1_2">Carl Noren</string>
+    <string name="answer_1_3">Mick Gordon</string>
+    <string name="answer_1_4">CTO$</string>
+
+    <string name="answer_2_1">Tokong Nanas Building</string>
+    <string name="answer_2_2">Fri Building</string>
+    <string name="answer_2_3">C Building</string>
+    <string name="answer_2_4">A Building</string>
+
+    <string name="answer_3_1">Mamuju</string>
+    <string name="answer_3_2">Makasaar</string>
+    <string name="answer_3_3">Pare Pare</string>
+    <string name="answer_3_4">Polewali Mandar</string>
+
+    <string name="answer_4_1">Kanjen Bend</string>
+    <string name="answer_4_2">BTS</string>
+    <string name="answer_4_3">Big Bang</string>
+    <string name="answer_4_4">SUJUH</string>
+
+    <string name="answer_5_1">Bangtan Sister</string>
+    <string name="answer_5_2">Balubur Town Square</string>
+    <string name="answer_5_3">Beyond The Summit</string>
+    <string name="answer_5_4">Bangtan Seonyeondan</string>
+
+    <string name="answer_6_1">Indonesia</string>
+    <string name="answer_6_2">Seoul</string>
+    <string name="answer_6_3">Makassar</string>
+    <string name="answer_6_4">Malaysia</string>
+</resources>
